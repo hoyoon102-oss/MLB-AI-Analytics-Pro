@@ -1,0 +1,600 @@
+{
+  "version": "4.9",
+  "kind": "Local source checkpoint; not an approved release tag",
+  "excluded": [
+    "personal data/DB",
+    "local settings/secrets/.env",
+    "virtual environments",
+    "logs",
+    "old ui-preview",
+    "backups",
+    "Git metadata"
+  ],
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "636debc2a57ebc7bb11902b9aee70fe1e825c5c8a495b4e518e52703728f1889"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "sha256": "7d9233932e01bd8a5d296e22c43da3127a266f636c33c0ca316f626acc3c47a8"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "a0dabcfd0a2998be2c4f874f34eaa4ebf2098c3385101cb4e11d9a8d79f4f5f0"
+    },
+    {
+      "path": ".streamlit/config.toml",
+      "sha256": "02f37c144b7ee63e6dafbe7918044b11bfea4bac8bb5b491a1e33f6a988b36d7"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "86907f7061d0a9b13c61ac4bdf7c79867ffc7561d5cd53d6a68d8903d0c43772"
+    },
+    {
+      "path": "PROJECT_SUMMARY.md",
+      "sha256": "b9aae74d6d4fc92ec72b11de93f5b385b91bf8192fd41c69fb490a29062dbe50"
+    },
+    {
+      "path": "README.md",
+      "sha256": "46eb4db07f15acf3011afa4e101407ac9f65e58ba3a3411aaa0ac4f7e4cb48a1"
+    },
+    {
+      "path": "analytics/__init__.py",
+      "sha256": "5866c8b8223922dde32d69e9a7bece364fd4f49b937e0e0fedf6c48f18c4e2af"
+    },
+    {
+      "path": "analytics/advanced_hitting.py",
+      "sha256": "7b50321899d3c98d1dfde83d6391233c49e6f1bade5b71ad3487f62baabf3500"
+    },
+    {
+      "path": "analytics/advanced_pitching.py",
+      "sha256": "c0d77ad740e48ad7b46737cabd71aa450964216b65ea9b8d91574e40c25dce32"
+    },
+    {
+      "path": "analytics/advanced_stats.py",
+      "sha256": "f3bad5a2f9205a317a6c0dd30adcd75a9cc9eb459dfd9dae5756a396deb53a98"
+    },
+    {
+      "path": "analytics/advanced_stats_sources.py",
+      "sha256": "c9fbb75ac5f4a7d62476fa403ed17e89fa80b75436f32ad4f418d8035490eed9"
+    },
+    {
+      "path": "analytics/career_trends.py",
+      "sha256": "d077095286a02ea89e81aa9eacff20e006a48ab226b3440f3adb7e3635b8567c"
+    },
+    {
+      "path": "analytics/leaderboard_rankings.py",
+      "sha256": "72b871a8265581b8241000675688fb534ed5ab5b14caaa3d9de10252c2e6e05e"
+    },
+    {
+      "path": "analytics/percentiles.py",
+      "sha256": "f6a555bf4e0e18a6ac3589c5488e23b39c0a2d9c24c6fcb85fe52d928b287345"
+    },
+    {
+      "path": "analytics/performance_monitor.py",
+      "sha256": "c19ce5e9552c304d176677521168c6317eb0775e393cab05c6949a3e520299a8"
+    },
+    {
+      "path": "analytics/pitching.py",
+      "sha256": "0a3ea34f7f8d5d63673db3b41c1220c3ee9a13c2e3204596b2f25f9455641172"
+    },
+    {
+      "path": "analytics/player_similarity.py",
+      "sha256": "5b75949846a32f3208b67867ea53b1517e0d508224dd9626dad35290ee25916a"
+    },
+    {
+      "path": "analytics/standard.py",
+      "sha256": "67574755ce37a77e4bc3f0ebc3d5b0eb63c3e63cd336f5e4faaca5575594c66f"
+    },
+    {
+      "path": "analytics/statcast_context.py",
+      "sha256": "a87cfac5ede051076a07ac3b2b83561654a3ebd72c4d42241880d35f451e54bb"
+    },
+    {
+      "path": "analytics/statcast_hitting.py",
+      "sha256": "e6e192f7e2eb783c1194422a26b308cea6e6756a74df12b9202e980e52d05f03"
+    },
+    {
+      "path": "analytics/statcast_pitching.py",
+      "sha256": "6c912dc6776ce74d7fde3f3042362b34dcfe8e6b2f15fd6ab8456c64100a26b7"
+    },
+    {
+      "path": "app.py",
+      "sha256": "806659843959a37b2b054f96d7a85f90530a7b61fa8f19b1f235f927dfe92016"
+    },
+    {
+      "path": "components/__init__.py",
+      "sha256": "7876efc7be56bf0253143d49795244a6fae537922236037cec666a2a14b407c5"
+    },
+    {
+      "path": "components/advanced_stats_ui.py",
+      "sha256": "8887c26b24f72ac1366e5e5f486573f1ea823592d3b4541bca71b627e5c45e31"
+    },
+    {
+      "path": "components/ai_ui.py",
+      "sha256": "b05151b4eb3106bb8b8b3919111d0630d01331debd56a853f02234dc4c184106"
+    },
+    {
+      "path": "components/awards.py",
+      "sha256": "c7edd96b4dadcc920fc9b1dfc79aef8f36c68914a4951084d25c1e70a9564564"
+    },
+    {
+      "path": "components/career_charts.py",
+      "sha256": "ce64353a6f734c44ae6a2db99679d48caa05e935f4bc9758d8fece91b1e90825"
+    },
+    {
+      "path": "components/career_ui.py",
+      "sha256": "a512783f474bf22c84441bef75f0d3735b43ad0f6cac08f83b56680520c1fc51"
+    },
+    {
+      "path": "components/dashboard.py",
+      "sha256": "6567fab3603f1428e04824e627e92fac574d45ab713980f4fd3dea1480a89c54"
+    },
+    {
+      "path": "components/leaderboard_charts.py",
+      "sha256": "1147eb55dd21402d1afd299122a4ee549c4765e42fec66c09b66f78a20851c89"
+    },
+    {
+      "path": "components/leaderboard_ui.py",
+      "sha256": "f06ba047c92261529858128a19af0cacf81e4f33721f566843f2b7ed709e6110"
+    },
+    {
+      "path": "components/league_ui.py",
+      "sha256": "1f53dc673648dea104e01003484e556e703397d46c24c296bacd27677ba6e29f"
+    },
+    {
+      "path": "components/profile_ui.py",
+      "sha256": "7d98329b15937fb8f73054f30d7ea9b6b698bbbbaecd695bb776535b26c4d218"
+    },
+    {
+      "path": "components/rankings_ui.py",
+      "sha256": "33b35b5ac4b23092f91c27b037a9b5b290804c2c1b307fa7b090901c082a7231"
+    },
+    {
+      "path": "components/stat_charts.py",
+      "sha256": "4da97d3ad88eba16dc096d66b9f98f9e238c66a0a796468fa39c9771e98b4868"
+    },
+    {
+      "path": "components/statcast_charts.py",
+      "sha256": "839f1e7385b6f33457aa1d39a2ccb413a650af17dd6cad01faded8fc85b218d6"
+    },
+    {
+      "path": "components/statcast_ui.py",
+      "sha256": "b68572d968d49a39a55e9fe3e25c21ca5feb3cf2608b82c0b62d42ea0fbac09c"
+    },
+    {
+      "path": "components/system_performance_ui.py",
+      "sha256": "a7c566846417ff23d99a2d6cfefd4aa72c240f0e894e6187f8a76aabe4d7815d"
+    },
+    {
+      "path": "components/ui_components.py",
+      "sha256": "b99d5e3573da78aee7b152c356ae3c0581325f685dce571d59c97fcb02f6385c"
+    },
+    {
+      "path": "components/ui_styles.css",
+      "sha256": "5ae6effe8cd7dd4c36ae41c514fed6fa1fec16982444c72b8fe519143beaec1d"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "sha256": "47de49bee7e5274d1986d211303f3a88fcbcc660bf0a69a2a138c331593cd257"
+    },
+    {
+      "path": "docs/DATA_QUALITY.md",
+      "sha256": "4fdf0dd12a7e1519e31788fd10b0bf0b39fcf2f9243554c6958bc2ca6e5cef97"
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "sha256": "e9111d380529de957743afadde7b2979f8803aa53296f6d99bc5876f14361e86"
+    },
+    {
+      "path": "docs/FINAL_CHECKPOINT_FILES.txt",
+      "sha256": "354def0202e3463904579c411e824fd455ace67534c917a37b5b2d669c2760b1"
+    },
+    {
+      "path": "docs/FINAL_HANDOVER.ko.md",
+      "sha256": "e59be77c736b0cc40d3b9011c5bfca634de9a2363f5241178c22cec5545e50f2"
+    },
+    {
+      "path": "docs/IMPLEMENTATION_PLAN.md",
+      "sha256": "f028995e965b8787bfba9df9c4973c35f5737b28b3566fc2132f2b16cef27332"
+    },
+    {
+      "path": "docs/RELEASE_READINESS.md",
+      "sha256": "1500e003f4456aa7202e47f3039e4dc01a6b7e3422a8f5d0eed612d3f3c08c35"
+    },
+    {
+      "path": "docs/SECURITY.md",
+      "sha256": "d60fb89ebb90f9b84061720210855934c9fd19e7477106659ce8a64519845e43"
+    },
+    {
+      "path": "docs/TESTING.md",
+      "sha256": "a4abe8ddf644a250b87c79aa1c070447b6b7fc24e36b703ef8c67ce917b3d918"
+    },
+    {
+      "path": "docs/V42_README.ko.md",
+      "sha256": "9929db56c85c6dc335ab91f371d10c1b3e1da357a26975285f8a3dcca954fdf0"
+    },
+    {
+      "path": "docs/V431_REPORT.ko.md",
+      "sha256": "3ecbe3a18d554b37f2919e7411fe6190d84662226f51ddbd7f6102eb06316b46"
+    },
+    {
+      "path": "docs/V43_REPORT.ko.md",
+      "sha256": "dc9420002f195088f61734552e2204a0757bd0ca5a09348e2de4ca7cfedee518"
+    },
+    {
+      "path": "docs/V44_REPORT.ko.md",
+      "sha256": "ee31a7b9ff8a892f72e40b1da8ae1ace1d65604284e5d17575b5e92994f21f08"
+    },
+    {
+      "path": "docs/V45_REPORT.ko.md",
+      "sha256": "87977a394302eff317ed60cd28ef2b20cc8ec71894ea36f7a6e50e2e3bf99b08"
+    },
+    {
+      "path": "docs/V46_REPORT.ko.md",
+      "sha256": "39d8f6bda5db110f714212744150c3b719c7de46afcabd106ea3f693cc67a87d"
+    },
+    {
+      "path": "docs/V47_REPORT.ko.md",
+      "sha256": "c282d838f7a9cd1ae561329f2034bfe463bdcc134397b120bc56c1fb3a626154"
+    },
+    {
+      "path": "docs/V48_REPORT.ko.md",
+      "sha256": "8de4592208052626ad5fbda0179c8a69c708a549b6000db0ae70218f1aa96d7b"
+    },
+    {
+      "path": "docs/V49_REPORT.ko.md",
+      "sha256": "e8cc9bac0adc0ab6a89b946841761ca654aed904ebfc3a7c23155422e86b6bd7"
+    },
+    {
+      "path": "docs/career-live-evidence.json",
+      "sha256": "dcbcd75e99f24ddfed7d144a410e744fca9aae1d4991bf1427c0ef51de385ac5"
+    },
+    {
+      "path": "docs/final-browser-checks.json",
+      "sha256": "9af26d8cf827d01f0e0bd3b524f5391ff2ab3e8511f1cc194dd0e9d737b34801"
+    },
+    {
+      "path": "docs/final-live-checks.json",
+      "sha256": "7f0ef5c65b58233f9430a0cfe94dbfccfb96be7bdfe327e166982ed602e28211"
+    },
+    {
+      "path": "docs/images/v49-player-1440.png",
+      "sha256": "7ad913e7dc1885ace20186049eb1ed09e9d7402bfb79919b54c952f6b962ddf9"
+    },
+    {
+      "path": "docs/images/v49-player-390.png",
+      "sha256": "d7cdd68e949cd987f003df286d078322b9ba6b2e692b08402aace203cd98d5a3"
+    },
+    {
+      "path": "docs/leaderboards-live-evidence.json",
+      "sha256": "13db8d5a5446bfc0ce5a3dc704e040fc19381bd5c4ba13554249db3037474a7b"
+    },
+    {
+      "path": "docs/rankings-live-evidence.json",
+      "sha256": "99fb30a1f2810746697ddb65c6b9bfac64b11b1a8907c919e3cc989df1d5082d"
+    },
+    {
+      "path": "docs/statcast-live-evidence.json",
+      "sha256": "bbde042d3ee2560fc0adc08824eb9f9af838cff29c3defd86749c63661ac5304"
+    },
+    {
+      "path": "docs/v48-benchmark.json",
+      "sha256": "0c9576981b6f854a0fc7f43de407870f860f6a91d32775529d55faf7d7402c73"
+    },
+    {
+      "path": "docs/v48-startup-benchmark.json",
+      "sha256": "6eff1d50b52f463e6b287efd2961d2d007c85653041a904e1a5bafda70076fe3"
+    },
+    {
+      "path": "docs/v49-analytics-benchmark.json",
+      "sha256": "442200be8aad8336e8f96f2e014a9ae0c1474fd3df377586d46ad6e8667ccde9"
+    },
+    {
+      "path": "docs/v49-benchmark.json",
+      "sha256": "a54fde4a0235967e801d098ca843949c71ecd65a09bbc74dcd71e13a554c0f65"
+    },
+    {
+      "path": "docs/v49-file-changes.json",
+      "sha256": "71c21d5b07b7abdc3cc0e7af9ce76e64c6ab40edb2242c63099f84ec5f238957"
+    },
+    {
+      "path": "pytest.ini",
+      "sha256": "0118cc0d977913e3017aa07118a546523d77c3742f82d31130607c51738abdfc"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "sha256": "3764b0351b39dd41546dc287c3e32e3c2ba96f6f869ad9849d09e5e810e78adb"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "d90e0f7150bbf2dad66aa26959c6304dd951e579c4f816e94621f0c6bbdae60a"
+    },
+    {
+      "path": "scripts/__init__.py",
+      "sha256": "36f83f57ec0e79830498f3b7c3e1a89cfb9a205b69435b0a1ff5d75354f15df2"
+    },
+    {
+      "path": "scripts/benchmark_analytics.py",
+      "sha256": "165b0a020e00153a1560e4765b658cbdeab386214953d8fd374c8104d4f26b8b"
+    },
+    {
+      "path": "scripts/benchmark_cache.py",
+      "sha256": "bb04018948c441e5a81df6a84a32828a9b660abdb6c8ef0a1cf96c0215aff0a8"
+    },
+    {
+      "path": "scripts/check_advanced_live.py",
+      "sha256": "d4df8adabbb022f66a158b47db11069f14efb78c112750ebdb53b8a2db42cf13"
+    },
+    {
+      "path": "scripts/check_ai_live.py",
+      "sha256": "83cb5327a229ddb77a6c58f7f7fd709fde923adbf928b080bd170988daea7561"
+    },
+    {
+      "path": "scripts/check_awards_live.py",
+      "sha256": "7c4a99b956510e0908668d9f1f9d9ca3f21c7c99f604fb48cab1e05daf4d93b0"
+    },
+    {
+      "path": "scripts/check_browser.py",
+      "sha256": "962b5c012c05a14b1c5f1590edbc78a13b990e6e12317b793b3f7b1ce3354250"
+    },
+    {
+      "path": "scripts/check_career_live.py",
+      "sha256": "6dcf61d94a1567a811b02eecbde7a5644a001bb1903f1dd869c963fc942c9e8e"
+    },
+    {
+      "path": "scripts/check_connections.py",
+      "sha256": "563d0c46874c2387dd9585f658e8daaa0caa552dcf5c2384ca4b58113da8e348"
+    },
+    {
+      "path": "scripts/check_final_browser.py",
+      "sha256": "294512e9efb515719deb7c5d0189b63b403164d47fd8c8ecb87687e3cd174603"
+    },
+    {
+      "path": "scripts/check_final_live.py",
+      "sha256": "87654503d11fbc3117fded52cfde4c33bd17618e4d6d33aef62827e9b23780fa"
+    },
+    {
+      "path": "scripts/check_launcher.py",
+      "sha256": "b233b8cce0d77ebeb99ecb3ce7bc058c7f5a01b185fba8fb3949802dfea81a5d"
+    },
+    {
+      "path": "scripts/check_leaderboards_live.py",
+      "sha256": "c4b26738a107f497a710522cce50afb152fd47a1467c936518bd37cc22a7d704"
+    },
+    {
+      "path": "scripts/check_leagues_live.py",
+      "sha256": "9b593b1b48d6201f8e60e52cf573bd28e4c324f80d341f4972c004362f4674f8"
+    },
+    {
+      "path": "scripts/check_rankings_live.py",
+      "sha256": "eed186919781955c6512c8d12d9a2e96091f954470f868963fb8ff6ea25f4e2f"
+    },
+    {
+      "path": "scripts/check_startup.py",
+      "sha256": "2355b391ca210a42f1b13375dd6295d65f530e6c306f0ea0ff126d79da1a53e7"
+    },
+    {
+      "path": "scripts/check_statcast_live.py",
+      "sha256": "28a1b894a50d15af68b2ab06557ba1a566b8167d077674b5e1b7b76b7868a750"
+    },
+    {
+      "path": "scripts/check_ui_browser.py",
+      "sha256": "6f2b8e36b87716fdd58c791ced0e0152ae64dbc68b5d5ceee2e55c5113d54495"
+    },
+    {
+      "path": "scripts/check_v42_browser.py",
+      "sha256": "df3fcfe64a6fa80c27e993f1f0bfc453a6fbacf4b7a4e7fc3df010a0f30a84a7"
+    },
+    {
+      "path": "services/__init__.py",
+      "sha256": "7f1bb3e95cb83b6622eb90d606fdb965117833ce4a3ef81047e60765308e04eb"
+    },
+    {
+      "path": "services/ai_analyst.py",
+      "sha256": "9ebef01c6e27c13d780a8050f9a616d4534a92b70a9e76603dc6f59516bd832b"
+    },
+    {
+      "path": "services/cache_manager.py",
+      "sha256": "e874f21926f1d1822e3e4aaa5205b2c3a127c609dd011175b2fe3eff18160d51"
+    },
+    {
+      "path": "services/cache_policy.py",
+      "sha256": "9342370cb4dbc22106ba7af616ac28c073adbff97e9bca199f5ce7c48e532c4e"
+    },
+    {
+      "path": "services/career_stats_service.py",
+      "sha256": "3db134c4210239ee8210f5dc1ef0caf023fda4385c409f05b08f5606331b0f48"
+    },
+    {
+      "path": "services/database.py",
+      "sha256": "83f1e279388dd471cdefc1581481f9a99b6117fae5f7b53e22bd0ec943931beb"
+    },
+    {
+      "path": "services/leaderboard_service.py",
+      "sha256": "5c51ac0378b2ebb227895dc6761560e90e7b687a86047ca5a91d8ab77d78d309"
+    },
+    {
+      "path": "services/league_stats.py",
+      "sha256": "53f16eeaf30e82276bdca45cda6dcfa9130eab8485dbcde6ad7c4309a4d8bc08"
+    },
+    {
+      "path": "services/player_detection.py",
+      "sha256": "21a0085cff9b495d41824e914970d6b6a49d4be462396194be0c8ec35cb14b4c"
+    },
+    {
+      "path": "services/player_search.py",
+      "sha256": "fe3b73bd10b793ab86ef5bdcd5c46aacc4e055fd8d10259003f78fd56188ee16"
+    },
+    {
+      "path": "services/player_stats.py",
+      "sha256": "eacdad59ad641370e70a2e41ad2b2cddcd03d57532d5c3ab0c05cd5a061c6a59"
+    },
+    {
+      "path": "services/season_selection.py",
+      "sha256": "d692b7b030f276a3620d68f0c69cdaac43d865a204aa535b7b78e93557251161"
+    },
+    {
+      "path": "services/statcast_service.py",
+      "sha256": "4ec412ac1979a7d87b2dd84e6e00a31fe5f84c98cf83eb6b24b0f5c6ce7ac3b9"
+    },
+    {
+      "path": "start.bat",
+      "sha256": "9f2927848877235fcd0d80599f3e7db835f0212f65814045dc86d4560d6ab6b5"
+    },
+    {
+      "path": "tests/__init__.py",
+      "sha256": "5bbba77299a20734b9d32d0c6afd427a9186145ca2d2a42e2f760918f2613e47"
+    },
+    {
+      "path": "tests/advanced-verified-examples.json",
+      "sha256": "98d74248788a71eba8aa4c4e297022af0d759c487acb14fc3cdc95e7aa29a561"
+    },
+    {
+      "path": "tests/conftest.py",
+      "sha256": "52846a37e2211445017dfc17873b01672ac1383464f26f772c8e14795f1b4704"
+    },
+    {
+      "path": "tests/test_advanced_stats.py",
+      "sha256": "f98e605850f36addb5eb22677c2163bc4c6fd961de696b0708c124035b5a33ec"
+    },
+    {
+      "path": "tests/test_ai_analyst.py",
+      "sha256": "eccb4a6e73aa480bf3fc6b4ac6f22b79d6eda6fbd51825b9edf07ced2dbe46e8"
+    },
+    {
+      "path": "tests/test_ai_ui.py",
+      "sha256": "f704dcba9a9c630a3d8b8e702f76cfdfc43716a6ea93d6fe72c34e9bf0f921f9"
+    },
+    {
+      "path": "tests/test_app.py",
+      "sha256": "e6529f2d4e5ec5e1af01d22df2d90ea7eaaa06c6431a3eb8d7a5cd62b5339d3f"
+    },
+    {
+      "path": "tests/test_awards.py",
+      "sha256": "9c6295e5583be6d5609f4daad48cd6b3f3598d7f1848e167c7c858193573dd91"
+    },
+    {
+      "path": "tests/test_career_trends.py",
+      "sha256": "1f18bd2100fa7005d0b8cc62762414e70879f8acbc0ab1453cf759e9946c507b"
+    },
+    {
+      "path": "tests/test_career_ui.py",
+      "sha256": "0e5fd693cb3adcadc0e6b667e86460546d087d0fd72a668b3d10b147cc809637"
+    },
+    {
+      "path": "tests/test_database_cache.py",
+      "sha256": "ad9c817662334ac072c80264b03e3b6b89197799e28468c5b3853ba6430700e5"
+    },
+    {
+      "path": "tests/test_deployment_security.py",
+      "sha256": "514e83ce162aca0476ae935b26db45a0b68d110fa804727003ad08b8015e5a3a"
+    },
+    {
+      "path": "tests/test_favorites.py",
+      "sha256": "c86e939a80bd68bb532a5c41e51f0bcaf345b200486143f8199246855a65de48"
+    },
+    {
+      "path": "tests/test_i18n.py",
+      "sha256": "c0af759dfbaff189be6b81f6f0da8ca2a32b539db4e78e839f6191d66610b706"
+    },
+    {
+      "path": "tests/test_leaderboard_ui.py",
+      "sha256": "92a469318cc8458fa9e9783f46f63ce425d401d27b68eab8f3397a187ff84679"
+    },
+    {
+      "path": "tests/test_leaderboards.py",
+      "sha256": "b2fb4ffc91623d6d603b0198f32731eb26ca3432274211d5795ea399b1033dc1"
+    },
+    {
+      "path": "tests/test_league_stats.py",
+      "sha256": "893f5fd650943d6cdabfef8c236a916464105baee8bb55befa19e771d6223816"
+    },
+    {
+      "path": "tests/test_percentiles.py",
+      "sha256": "647ce2e25221fb989d752f5acea6f4406bc483a3a6dc3bdb3b22efd11a3e40e4"
+    },
+    {
+      "path": "tests/test_pitching.py",
+      "sha256": "bf767e66a5f71948b673e113ea1ce4351dd7f1410e0764b03986e052a77aeadb"
+    },
+    {
+      "path": "tests/test_pro_ui.py",
+      "sha256": "83099e4d4f88a5e5de86035e98d96613f033fff152b27bbd4f1d687f45d96c48"
+    },
+    {
+      "path": "tests/test_rankings_ui.py",
+      "sha256": "0b72ca5042271ac0e4307951937d279585c6bf2252fbefd5e3e7a1ac189da6ee"
+    },
+    {
+      "path": "tests/test_search.py",
+      "sha256": "c6870377fcf90ef75d29ea0a8fb3b43b0e1b8f3b6b05ad4fff8f28e807bd60e7"
+    },
+    {
+      "path": "tests/test_similarity.py",
+      "sha256": "403c1eb5467e4f6af7329ccba81cc7b7eb4ff93545439f0dc1d7cf3cb440c29e"
+    },
+    {
+      "path": "tests/test_smart.py",
+      "sha256": "a43e924760f3c24d1802be1a8e47bea99646de71e73adbf6199e758026ec57b0"
+    },
+    {
+      "path": "tests/test_statcast.py",
+      "sha256": "a38f849daf640e759841d0460b77d0237c75ea6c6542ece28d0f551d41b02e45"
+    },
+    {
+      "path": "tests/test_statcast_ui.py",
+      "sha256": "dded0da920c8d1adc95c2736161ceee223bda5a86d8e47a86b98a7c0622e8b06"
+    },
+    {
+      "path": "tests/test_statistics_validation.py",
+      "sha256": "ee8f09b940f85382e20ef2ac5955b079a985318544b93984a40a473962bc05ce"
+    },
+    {
+      "path": "tests/test_structure.py",
+      "sha256": "577a1e317a799d16eda1dbda70a72c33605e6412b0b3588844c17ecce5c4b664"
+    },
+    {
+      "path": "tests/test_support.py",
+      "sha256": "5917b41da01e17435a01f06d8f4e15b6cdc49a9841c4e39f46430d7278c1f6b3"
+    },
+    {
+      "path": "tests/test_system_performance_ui.py",
+      "sha256": "069d42029fbbb17a6118e1ee90bd3da756425ff866da3ed77ae3aec7068a0966"
+    },
+    {
+      "path": "translations/en.json",
+      "sha256": "f162bc81b19efc20903505cfa89983d999a15d2e3d64ce2c3fa02e72df5e593f"
+    },
+    {
+      "path": "translations/ko.json",
+      "sha256": "7701405dc931d314b9f396b32ab603ae4465baff3ca0bcd817dd46106bee147b"
+    },
+    {
+      "path": "utils/__init__.py",
+      "sha256": "aeef82848c061f76d706c2e3dd03c309fffbc690960518cbae4c43a157d37547"
+    },
+    {
+      "path": "utils/config.py",
+      "sha256": "864916e3156e93b4ab89f3dbea3d77b8ed1eacdc77a8b4cc2249ca3b650d4830"
+    },
+    {
+      "path": "utils/favorites.py",
+      "sha256": "b0153fc89522bcead8817d572aeac033463080b86344cae915ca54e0020fc429"
+    },
+    {
+      "path": "utils/i18n.py",
+      "sha256": "e962b7873f9bdc3039ef2b6002c5574b50806b88a1d9f9001013d620aedfcb88"
+    },
+    {
+      "path": "utils/leaderboard_presets.py",
+      "sha256": "7014a8412cf1f681f9065164d724f23767a4724fbf3482d228b48d47b5171ef7"
+    },
+    {
+      "path": "utils/paths.py",
+      "sha256": "a37039d02dd703e18a12d0ab9423a1c2afea4a2b40e8521b8b58edc4f3017b9c"
+    }
+  ],
+  "self": "This manifest is included; its checksum is covered by the ZIP checksum, not recursively listed."
+}

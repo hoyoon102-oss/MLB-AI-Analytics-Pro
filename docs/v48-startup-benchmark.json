@@ -1,0 +1,18 @@
+{
+  "baseline": {
+    "process_health_and_shutdown_seconds": [
+      1.4680804000017815,
+      1.4547726999953738,
+      1.467697499996575
+    ],
+    "median_seconds": 1.467697499996575
+  },
+  "v48": {
+    "process_health_and_shutdown_seconds": [
+      1.493205200000375,
+      1.4713508000058937,
+      1.470461000004434
+    ],
+    "median_seconds": 1.4713508000058937
+  }
+}

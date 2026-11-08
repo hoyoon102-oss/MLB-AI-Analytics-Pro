@@ -1,0 +1,8 @@
+analytics/advanced_stats_sources.py
+docs/career-live-evidence.json
+docs/images/v49-player-1440.png
+docs/images/v49-player-390.png
+docs/leaderboards-live-evidence.json
+docs/rankings-live-evidence.json
+docs/statcast-live-evidence.json
+tests/advanced-verified-examples.json

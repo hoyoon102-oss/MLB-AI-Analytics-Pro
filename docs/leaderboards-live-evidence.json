@@ -1,0 +1,223 @@
+[
+  {
+    "season": 2024,
+    "category": "hitting",
+    "population_n": 742,
+    "qualified_n": 129,
+    "sources": [
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=hitting&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=0&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=hitting&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=200&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=hitting&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=400&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=hitting&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=600&hydrate=person"
+    ],
+    "retrieved_at": "2026-11-05T00:58:41.632299+00:00",
+    "top_five": [
+      {
+        "rank": 1,
+        "id": 592450,
+        "name": "Aaron Judge",
+        "OPS": 1.159
+      },
+      {
+        "rank": 2,
+        "id": 660271,
+        "name": "Shohei Ohtani",
+        "OPS": 1.036
+      },
+      {
+        "rank": 3,
+        "id": 665742,
+        "name": "Juan Soto",
+        "OPS": 0.988
+      },
+      {
+        "rank": 4,
+        "id": 677951,
+        "name": "Bobby Witt Jr.",
+        "OPS": 0.977
+      },
+      {
+        "rank": 5,
+        "id": 670541,
+        "name": "Yordan Alvarez",
+        "OPS": 0.959
+      }
+    ],
+    "official_top_five": [
+      {
+        "rank": 1,
+        "value": "1.159",
+        "person": {
+          "id": 592450,
+          "fullName": "Aaron Judge",
+          "link": "/api/v1/people/592450",
+          "firstName": "Aaron",
+          "lastName": "Judge",
+          "nameSlug": "aaron-judge-592450"
+        }
+      },
+      {
+        "rank": 2,
+        "value": "1.036",
+        "person": {
+          "id": 660271,
+          "fullName": "Shohei Ohtani",
+          "link": "/api/v1/people/660271",
+          "firstName": "Shohei",
+          "lastName": "Ohtani",
+          "nameSlug": "shohei-ohtani-660271"
+        }
+      },
+      {
+        "rank": 3,
+        "value": ".988",
+        "person": {
+          "id": 665742,
+          "fullName": "Juan Soto",
+          "link": "/api/v1/people/665742",
+          "firstName": "Juan",
+          "lastName": "Soto",
+          "nameSlug": "juan-soto-665742"
+        }
+      },
+      {
+        "rank": 4,
+        "value": ".977",
+        "person": {
+          "id": 677951,
+          "fullName": "Bobby Witt Jr.",
+          "link": "/api/v1/people/677951",
+          "firstName": "Bobby",
+          "lastName": "Witt",
+          "nameSlug": "bobby-witt-677951"
+        }
+      },
+      {
+        "rank": 5,
+        "value": ".959",
+        "person": {
+          "id": 670541,
+          "fullName": "Yordan Alvarez",
+          "link": "/api/v1/people/670541",
+          "firstName": "Yordan",
+          "lastName": "Alvarez",
+          "nameSlug": "yordan-alvarez-670541"
+        }
+      }
+    ],
+    "traded_players_verified": 68,
+    "source_errors": [],
+    "statcast_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+  },
+  {
+    "season": 2024,
+    "category": "pitching",
+    "population_n": 855,
+    "qualified_n": 58,
+    "sources": [
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=0&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=200&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=400&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=600&hydrate=person",
+      "https://statsapi.mlb.com/api/v1/stats?stats=season&group=pitching&season=2024&sportIds=1&gameType=R&playerPool=ALL&limit=200&offset=800&hydrate=person"
+    ],
+    "retrieved_at": "2026-11-05T00:58:42.668968+00:00",
+    "top_five": [
+      {
+        "rank": 1,
+        "id": 519242,
+        "name": "Chris Sale",
+        "ERA": 2.38
+      },
+      {
+        "rank": 2,
+        "id": 669373,
+        "name": "Tarik Skubal",
+        "ERA": 2.39
+      },
+      {
+        "rank": 3,
+        "id": 554430,
+        "name": "Zack Wheeler",
+        "ERA": 2.57
+      },
+      {
+        "rank": 4,
+        "id": 669854,
+        "name": "Ronel Blanco",
+        "ERA": 2.8
+      },
+      {
+        "rank": 5,
+        "id": 664285,
+        "name": "Framber Valdez",
+        "ERA": 2.91
+      }
+    ],
+    "official_top_five": [
+      {
+        "rank": 1,
+        "value": "2.38",
+        "person": {
+          "id": 519242,
+          "fullName": "Chris Sale",
+          "link": "/api/v1/people/519242",
+          "firstName": "Chris",
+          "lastName": "Sale",
+          "nameSlug": "chris-sale-519242"
+        }
+      },
+      {
+        "rank": 2,
+        "value": "2.39",
+        "person": {
+          "id": 669373,
+          "fullName": "Tarik Skubal",
+          "link": "/api/v1/people/669373",
+          "firstName": "Tarik",
+          "lastName": "Skubal",
+          "nameSlug": "tarik-skubal-669373"
+        }
+      },
+      {
+        "rank": 3,
+        "value": "2.57",
+        "person": {
+          "id": 554430,
+          "fullName": "Zack Wheeler",
+          "link": "/api/v1/people/554430",
+          "firstName": "Zack",
+          "lastName": "Wheeler",
+          "nameSlug": "zack-wheeler-554430"
+        }
+      },
+      {
+        "rank": 4,
+        "value": "2.80",
+        "person": {
+          "id": 669854,
+          "fullName": "Ronel Blanco",
+          "link": "/api/v1/people/669854",
+          "firstName": "Ronel",
+          "lastName": "Blanco",
+          "nameSlug": "ronel-blanco-669854"
+        }
+      },
+      {
+        "rank": 5,
+        "value": "2.91",
+        "person": {
+          "id": 684007,
+          "fullName": "Shota Imanaga",
+          "link": "/api/v1/people/684007",
+          "firstName": "Shota",
+          "lastName": "Imanaga",
+          "nameSlug": "shota-imanaga-684007"
+        }
+      }
+    ],
+    "traded_players_verified": 106,
+    "source_errors": [],
+    "statcast_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+  }
+]

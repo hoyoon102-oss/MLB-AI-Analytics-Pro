@@ -1,0 +1,15 @@
+{
+  "scope": "Offline current UI with saved 2024 fixture; no live profile or supplementary sources",
+  "viewports": [
+    {
+      "width": 1440,
+      "exceptions": 0,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 390,
+      "exceptions": 0,
+      "horizontal_overflow": false
+    }
+  ]
+}

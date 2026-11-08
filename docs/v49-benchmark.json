@@ -1,0 +1,250 @@
+{
+  "conditions": "Offline fixed fixtures; source latency is not simulated. Three separate processes per phase; temporary databases. Excludes UI rendering and live network latency.",
+  "python": "3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]",
+  "runs": 3,
+  "medians": {
+    "v48_cold": {
+      "player_lookup": {
+        "median_seconds": 0.005921000003581867,
+        "mock_source_calls": [
+          1,
+          1,
+          1
+        ],
+        "median_memory_seconds": 0.000145800004247576
+      },
+      "player_statistics": {
+        "median_seconds": 0.0036706000100821257,
+        "mock_source_calls": [
+          1,
+          1,
+          1
+        ],
+        "median_memory_seconds": 0.00018480001017451286
+      },
+      "leaderboard": {
+        "median_seconds": 0.0040176000038627535,
+        "mock_source_calls": [
+          1,
+          1,
+          1
+        ],
+        "median_memory_seconds": 0.00016930000856518745
+      },
+      "statcast_summary": {
+        "median_seconds": 0.0031705999863334,
+        "mock_source_calls": [
+          1,
+          1,
+          1
+        ],
+        "median_memory_seconds": 0.00015609999536536634
+      },
+      "career": {
+        "median_seconds": 0.0032553999917581677,
+        "mock_source_calls": [
+          1,
+          1,
+          1
+        ],
+        "median_memory_seconds": 0.0001689000055193901
+      }
+    },
+    "v48_restart": {
+      "player_lookup": {
+        "median_seconds": 0.0017681999888736755,
+        "mock_source_calls": [
+          0,
+          0,
+          0
+        ]
+      },
+      "player_statistics": {
+        "median_seconds": 0.0011240000021643937,
+        "mock_source_calls": [
+          0,
+          0,
+          0
+        ]
+      },
+      "leaderboard": {
+        "median_seconds": 0.000897999998414889,
+        "mock_source_calls": [
+          0,
+          0,
+          0
+        ]
+      },
+      "statcast_summary": {
+        "median_seconds": 0.0009372000058647245,
+        "mock_source_calls": [
+          0,
+          0,
+          0
+        ]
+      },
+      "career": {
+        "median_seconds": 0.0008521999989170581,
+        "mock_source_calls": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "observations": {
+    "v48_cold": [
+      {
+        "player_lookup": {
+          "seconds": 0.0060751999844796956,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00014650000957772136
+        },
+        "player_statistics": {
+          "seconds": 0.004668700014008209,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00018480001017451286
+        },
+        "leaderboard": {
+          "seconds": 0.0033104000031016767,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00016930000856518745
+        },
+        "statcast_summary": {
+          "seconds": 0.0030240000050980598,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00015609999536536634
+        },
+        "career": {
+          "seconds": 0.003283700003521517,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00021649998961947858
+        }
+      },
+      {
+        "player_lookup": {
+          "seconds": 0.005561199999647215,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.000145800004247576
+        },
+        "player_statistics": {
+          "seconds": 0.003177500009769574,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00016259998665191233
+        },
+        "leaderboard": {
+          "seconds": 0.0040176000038627535,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.0002654000127222389
+        },
+        "statcast_summary": {
+          "seconds": 0.00353660000837408,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.0001571000029798597
+        },
+        "career": {
+          "seconds": 0.0032553999917581677,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.0001689000055193901
+        }
+      },
+      {
+        "player_lookup": {
+          "seconds": 0.005921000003581867,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00013669999316334724
+        },
+        "player_statistics": {
+          "seconds": 0.0036706000100821257,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00021620001643896103
+        },
+        "leaderboard": {
+          "seconds": 0.004397699987748638,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.00016920000780373812
+        },
+        "statcast_summary": {
+          "seconds": 0.0031705999863334,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.0001483999949414283
+        },
+        "career": {
+          "seconds": 0.0032328000233974308,
+          "mock_source_calls": 1,
+          "warm_memory_seconds": 0.0001616999797988683
+        }
+      }
+    ],
+    "v48_restart": [
+      {
+        "player_lookup": {
+          "seconds": 0.0017681999888736755,
+          "mock_source_calls": 0
+        },
+        "player_statistics": {
+          "seconds": 0.0014050000172574073,
+          "mock_source_calls": 0
+        },
+        "leaderboard": {
+          "seconds": 0.0012282000097911805,
+          "mock_source_calls": 0
+        },
+        "statcast_summary": {
+          "seconds": 0.001138899999205023,
+          "mock_source_calls": 0
+        },
+        "career": {
+          "seconds": 0.0008521999989170581,
+          "mock_source_calls": 0
+        }
+      },
+      {
+        "player_lookup": {
+          "seconds": 0.0015881999861449003,
+          "mock_source_calls": 0
+        },
+        "player_statistics": {
+          "seconds": 0.0009272999886889011,
+          "mock_source_calls": 0
+        },
+        "leaderboard": {
+          "seconds": 0.0008680000028107315,
+          "mock_source_calls": 0
+        },
+        "statcast_summary": {
+          "seconds": 0.0008745999948587269,
+          "mock_source_calls": 0
+        },
+        "career": {
+          "seconds": 0.0008450000023003668,
+          "mock_source_calls": 0
+        }
+      },
+      {
+        "player_lookup": {
+          "seconds": 0.0018084999755956233,
+          "mock_source_calls": 0
+        },
+        "player_statistics": {
+          "seconds": 0.0011240000021643937,
+          "mock_source_calls": 0
+        },
+        "leaderboard": {
+          "seconds": 0.000897999998414889,
+          "mock_source_calls": 0
+        },
+        "statcast_summary": {
+          "seconds": 0.0009372000058647245,
+          "mock_source_calls": 0
+        },
+        "career": {
+          "seconds": 0.0008521999989170581,
+          "mock_source_calls": 0
+        }
+      }
+    ],
+    "baseline_cold": []
+  }
+}

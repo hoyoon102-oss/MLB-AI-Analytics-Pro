@@ -1,0 +1,1089 @@
+[
+  {
+    "player_id": 660271,
+    "season": 2024,
+    "category": "hitting",
+    "game_type": "R",
+    "start": "2024-09-19",
+    "end": "2024-09-19",
+    "retrieved_at": "2026-11-04T22:17:13.159056+00:00",
+    "source": [
+      "https://baseballsavant.mlb.com/statcast_search/csv?all=true&type=details&player_type=batter&batters_lookup%5B%5D=660271&game_date_gt=2024-09-19&game_date_lt=2024-09-19&hfGT=R%7C&min_pitches=0&min_results=0&group_by=name&sort_col=pitches"
+    ],
+    "quality": {
+      "excluded_scope": 0,
+      "duplicates_removed": 0
+    },
+    "published_full_season": {
+      "avg_ev": {
+        "value": 95.8,
+        "unit": "mph",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column avg_hit_speed",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "max_ev": {
+        "value": 119.2,
+        "unit": "mph",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column max_hit_speed",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "avg_la": {
+        "value": 16.2,
+        "unit": "deg",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column avg_hit_angle",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "hard_hit": {
+        "value": 60.1,
+        "unit": "%",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column ev95percent",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "barrel": {
+        "value": 21.5,
+        "unit": "%",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column brl_percent",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "sweet_spot": {
+        "value": 37.8,
+        "unit": "%",
+        "n": 479.0,
+        "bip": null,
+        "denominator": "published BBE",
+        "method": "source column anglesweetspotpercent",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.276978+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "xba": {
+        "value": 0.31,
+        "unit": "rate",
+        "n": 731.0,
+        "bip": 479.0,
+        "denominator": "published PA (BIP separately reported)",
+        "method": "source column est_ba",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.404008+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "xslg": {
+        "value": 0.672,
+        "unit": "rate",
+        "n": 731.0,
+        "bip": 479.0,
+        "denominator": "published PA (BIP separately reported)",
+        "method": "source column est_slg",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.404008+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      },
+      "xwoba": {
+        "value": 0.444,
+        "unit": "rate",
+        "n": 731.0,
+        "bip": 479.0,
+        "denominator": "published PA (BIP separately reported)",
+        "method": "source column est_woba",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.404008+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      }
+    },
+    "observed": {
+      "pitches": 22,
+      "bbe": 6,
+      "metrics": {
+        "avg_ev": {
+          "value": 108.55,
+          "unit": "mph",
+          "n": 6,
+          "denominator": "BBE with non-null launch_speed",
+          "method": "mean(launch_speed) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "max_ev": {
+          "value": 114.6,
+          "unit": "mph",
+          "n": 6,
+          "denominator": "BBE with non-null launch_speed",
+          "method": "max(launch_speed) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "avg_la": {
+          "value": 24.333333333333332,
+          "unit": "deg",
+          "n": 6,
+          "denominator": "BBE with non-null launch_angle",
+          "method": "mean(launch_angle) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "hard_hit": {
+          "value": 100.0,
+          "unit": "%",
+          "n": 6,
+          "denominator": "BBE with non-null launch_speed",
+          "method": "100 * count(EV >= 95 mph) / valid EV BBE",
+          "numerator": 6,
+          "classification": "locally_calculated"
+        },
+        "sweet_spot": {
+          "value": 66.66666666666666,
+          "unit": "%",
+          "n": 6,
+          "denominator": "BBE with non-null launch_angle",
+          "method": "100 * count(8 <= LA <= 32 degrees) / valid LA BBE",
+          "numerator": 4,
+          "classification": "locally_calculated"
+        },
+        "barrel": {
+          "value": 66.66666666666666,
+          "unit": "%",
+          "n": 6,
+          "denominator": "BBE with source launch_speed_angle in 1..6",
+          "method": "100 * count(source launch_speed_angle == 6) / classified BBE",
+          "numerator": 4,
+          "classification": "locally_calculated"
+        }
+      },
+      "breakdown": {
+        "line_drive": 3,
+        "fly_ball": 3
+      },
+      "launch_angle_distribution": {
+        "n": 6,
+        "below_0": 0,
+        "0_to_below_8": 0,
+        "8_to_32": 4,
+        "above_32": 2
+      }
+    },
+    "monthly": {
+      "2024-09": {
+        "pitches": 22,
+        "bbe": 6,
+        "metrics": {
+          "avg_ev": {
+            "value": 108.55,
+            "unit": "mph",
+            "n": 6,
+            "denominator": "BBE with non-null launch_speed",
+            "method": "mean(launch_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_ev": {
+            "value": 114.6,
+            "unit": "mph",
+            "n": 6,
+            "denominator": "BBE with non-null launch_speed",
+            "method": "max(launch_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "avg_la": {
+            "value": 24.333333333333332,
+            "unit": "deg",
+            "n": 6,
+            "denominator": "BBE with non-null launch_angle",
+            "method": "mean(launch_angle) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "hard_hit": {
+            "value": 100.0,
+            "unit": "%",
+            "n": 6,
+            "denominator": "BBE with non-null launch_speed",
+            "method": "100 * count(EV >= 95 mph) / valid EV BBE",
+            "numerator": 6,
+            "classification": "locally_calculated"
+          },
+          "sweet_spot": {
+            "value": 66.66666666666666,
+            "unit": "%",
+            "n": 6,
+            "denominator": "BBE with non-null launch_angle",
+            "method": "100 * count(8 <= LA <= 32 degrees) / valid LA BBE",
+            "numerator": 4,
+            "classification": "locally_calculated"
+          },
+          "barrel": {
+            "value": 66.66666666666666,
+            "unit": "%",
+            "n": 6,
+            "denominator": "BBE with source launch_speed_angle in 1..6",
+            "method": "100 * count(source launch_speed_angle == 6) / classified BBE",
+            "numerator": 4,
+            "classification": "locally_calculated"
+          }
+        },
+        "breakdown": {
+          "line_drive": 3,
+          "fly_ball": 3
+        },
+        "launch_angle_distribution": {
+          "n": 6,
+          "below_0": 0,
+          "0_to_below_8": 0,
+          "8_to_32": 4,
+          "above_32": 2
+        }
+      }
+    }
+  },
+  {
+    "player_id": 694973,
+    "season": 2024,
+    "category": "pitching",
+    "game_type": "R",
+    "start": "2024-05-11",
+    "end": "2024-05-11",
+    "retrieved_at": "2026-11-04T22:17:13.528411+00:00",
+    "source": [
+      "https://baseballsavant.mlb.com/statcast_search/csv?all=true&type=details&player_type=pitcher&pitchers_lookup%5B%5D=694973&game_date_gt=2024-05-11&game_date_lt=2024-05-11&hfGT=R%7C&min_pitches=0&min_results=0&group_by=name&sort_col=pitches"
+    ],
+    "quality": {
+      "excluded_scope": 0,
+      "duplicates_removed": 0
+    },
+    "published_full_season": {
+      "xera": {
+        "value": 2.5,
+        "unit": "ERA",
+        "n": 514.0,
+        "bip": 306.0,
+        "denominator": "published PA (BIP separately reported)",
+        "method": "source column xera",
+        "classification": "source_published",
+        "source": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitcher&year=2024&position=&team=&min=0&filterType=pa&csv=true",
+        "retrieved_at": "2026-11-04T22:17:13.653510+00:00",
+        "season": 2024,
+        "scope": "published_full_season",
+        "availability": "available"
+      }
+    },
+    "observed": {
+      "pitches": 84,
+      "metrics": {
+        "velocity": {
+          "value": 93.46666666666667,
+          "unit": "mph",
+          "n": 84,
+          "denominator": "pitches with non-null release_speed",
+          "method": "mean(release_speed) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "max_velocity": {
+          "value": 101.9,
+          "unit": "mph",
+          "n": 84,
+          "denominator": "pitches with non-null release_speed",
+          "method": "max(release_speed) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "spin": {
+          "value": 2172.8690476190477,
+          "unit": "rpm",
+          "n": 84,
+          "denominator": "pitches with non-null release_spin_rate",
+          "method": "mean(release_spin_rate) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "extension": {
+          "value": 6.489285714285717,
+          "unit": "ft",
+          "n": 84,
+          "denominator": "pitches with non-null release_extension",
+          "method": "mean(release_extension) * 1",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "horizontal": {
+          "value": -7.139999999999997,
+          "unit": "in",
+          "n": 84,
+          "denominator": "pitches with non-null pfx_x",
+          "method": "mean(pfx_x) * 12",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "vertical": {
+          "value": 5.84714285714286,
+          "unit": "in",
+          "n": 84,
+          "denominator": "pitches with non-null pfx_z",
+          "method": "mean(pfx_z) * 12",
+          "numerator": null,
+          "classification": "locally_calculated"
+        },
+        "whiff": {
+          "value": 30.0,
+          "unit": "%",
+          "n": 40,
+          "denominator": "recognized swing descriptions (includes bunt attempts)",
+          "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+          "numerator": 12,
+          "classification": "locally_calculated"
+        }
+      },
+      "swing_descriptions": [
+        "bunt_foul_tip",
+        "foul",
+        "foul_bunt",
+        "foul_pitchout",
+        "foul_tip",
+        "hit_into_play",
+        "missed_bunt",
+        "swinging_pitchout",
+        "swinging_strike",
+        "swinging_strike_blocked"
+      ],
+      "whiff_descriptions": [
+        "missed_bunt",
+        "swinging_pitchout",
+        "swinging_strike",
+        "swinging_strike_blocked"
+      ]
+    },
+    "arsenal": [
+      {
+        "pitch_type": "CH",
+        "pitch_name": "Changeup",
+        "pitches": 5,
+        "metrics": {
+          "velocity": {
+            "value": 88.17999999999999,
+            "unit": "mph",
+            "n": 5,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 89.1,
+            "unit": "mph",
+            "n": 5,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 1916.4,
+            "unit": "rpm",
+            "n": 5,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.42,
+            "unit": "ft",
+            "n": 5,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": -16.752,
+            "unit": "in",
+            "n": 5,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": 3.575999999999999,
+            "unit": "in",
+            "n": 5,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 50.0,
+            "unit": "%",
+            "n": 2,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 1,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 5.952380952380952,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 5,
+          "classification": "locally_calculated"
+        }
+      },
+      {
+        "pitch_type": "CU",
+        "pitch_name": "Curveball",
+        "pitches": 2,
+        "metrics": {
+          "velocity": {
+            "value": 82.1,
+            "unit": "mph",
+            "n": 2,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 82.6,
+            "unit": "mph",
+            "n": 2,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 2576.5,
+            "unit": "rpm",
+            "n": 2,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.5,
+            "unit": "ft",
+            "n": 2,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": 8.700000000000001,
+            "unit": "in",
+            "n": 2,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": -4.4399999999999995,
+            "unit": "in",
+            "n": 2,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": null,
+            "unit": "%",
+            "n": 0,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 0,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 2.380952380952381,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 2,
+          "classification": "locally_calculated"
+        }
+      },
+      {
+        "pitch_type": "FF",
+        "pitch_name": "4-Seam Fastball",
+        "pitches": 33,
+        "metrics": {
+          "velocity": {
+            "value": 100.09393939393942,
+            "unit": "mph",
+            "n": 33,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 101.9,
+            "unit": "mph",
+            "n": 33,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 2287.0,
+            "unit": "rpm",
+            "n": 33,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.512121212121211,
+            "unit": "ft",
+            "n": 33,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": -14.52,
+            "unit": "in",
+            "n": 33,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": 11.432727272727274,
+            "unit": "in",
+            "n": 33,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 20.0,
+            "unit": "%",
+            "n": 15,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 3,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 39.285714285714285,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 33,
+          "classification": "locally_calculated"
+        }
+      },
+      {
+        "pitch_type": "FS",
+        "pitch_name": "Split-Finger",
+        "pitches": 21,
+        "metrics": {
+          "velocity": {
+            "value": 94.66666666666667,
+            "unit": "mph",
+            "n": 21,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 96.0,
+            "unit": "mph",
+            "n": 21,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 1762.4761904761904,
+            "unit": "rpm",
+            "n": 21,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.480952380952381,
+            "unit": "ft",
+            "n": 21,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": -13.777142857142863,
+            "unit": "in",
+            "n": 21,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": -0.897142857142857,
+            "unit": "in",
+            "n": 21,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 58.333333333333336,
+            "unit": "%",
+            "n": 12,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 7,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 25.0,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 21,
+          "classification": "locally_calculated"
+        }
+      },
+      {
+        "pitch_type": "SL",
+        "pitch_name": "Slider",
+        "pitches": 6,
+        "metrics": {
+          "velocity": {
+            "value": 87.46666666666665,
+            "unit": "mph",
+            "n": 6,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 89.4,
+            "unit": "mph",
+            "n": 6,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 2358.1666666666665,
+            "unit": "rpm",
+            "n": 6,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.533333333333334,
+            "unit": "ft",
+            "n": 6,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": 1.8599999999999999,
+            "unit": "in",
+            "n": 6,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": 5.5,
+            "unit": "in",
+            "n": 6,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 0.0,
+            "unit": "%",
+            "n": 3,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 0,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 7.142857142857142,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 6,
+          "classification": "locally_calculated"
+        }
+      },
+      {
+        "pitch_type": "ST",
+        "pitch_name": "Sweeper",
+        "pitches": 17,
+        "metrics": {
+          "velocity": {
+            "value": 84.12941176470589,
+            "unit": "mph",
+            "n": 17,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 86.5,
+            "unit": "mph",
+            "n": 17,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 2420.823529411765,
+            "unit": "rpm",
+            "n": 17,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.458823529411765,
+            "unit": "ft",
+            "n": 17,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": 13.171764705882353,
+            "unit": "in",
+            "n": 17,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": 5.3364705882352945,
+            "unit": "in",
+            "n": 17,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 12.5,
+            "unit": "%",
+            "n": 8,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 1,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "usage": {
+          "value": 20.238095238095237,
+          "unit": "%",
+          "n": 84,
+          "denominator": "all retrieved pitches, including unknown pitch types",
+          "method": "100 * pitch-type count / all pitches",
+          "numerator": 17,
+          "classification": "locally_calculated"
+        }
+      }
+    ],
+    "locations": {
+      "valid_plate_pairs": 84,
+      "mean_plate_x_ft": -0.048438451720585154,
+      "mean_plate_z_ft": 1.9380295779253176,
+      "valid_batter_zone_pairs": 84,
+      "center_in_measured_rectangle_pct": 45.23809523809524,
+      "definition": "Pitch center inside 17-inch plate width and its own sz_bot/sz_top. Not an official called-strike rate.",
+      "view": "catcher perspective; positive x right; 2026+ middle-of-plate, through 2025 front-of-plate"
+    },
+    "monthly": {
+      "2024-05": {
+        "pitches": 84,
+        "metrics": {
+          "velocity": {
+            "value": 93.46666666666667,
+            "unit": "mph",
+            "n": 84,
+            "denominator": "pitches with non-null release_speed",
+            "method": "mean(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "max_velocity": {
+            "value": 101.9,
+            "unit": "mph",
+            "n": 84,
+            "denominator": "pitches with non-null release_speed",
+            "method": "max(release_speed) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "spin": {
+            "value": 2172.8690476190477,
+            "unit": "rpm",
+            "n": 84,
+            "denominator": "pitches with non-null release_spin_rate",
+            "method": "mean(release_spin_rate) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "extension": {
+            "value": 6.489285714285717,
+            "unit": "ft",
+            "n": 84,
+            "denominator": "pitches with non-null release_extension",
+            "method": "mean(release_extension) * 1",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "horizontal": {
+            "value": -7.139999999999997,
+            "unit": "in",
+            "n": 84,
+            "denominator": "pitches with non-null pfx_x",
+            "method": "mean(pfx_x) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "vertical": {
+            "value": 5.84714285714286,
+            "unit": "in",
+            "n": 84,
+            "denominator": "pitches with non-null pfx_z",
+            "method": "mean(pfx_z) * 12",
+            "numerator": null,
+            "classification": "locally_calculated"
+          },
+          "whiff": {
+            "value": 30.0,
+            "unit": "%",
+            "n": 40,
+            "denominator": "recognized swing descriptions (includes bunt attempts)",
+            "method": "100 * (swinging_strike + swinging_strike_blocked + missed_bunt + swinging_pitchout) / recognized swings",
+            "numerator": 12,
+            "classification": "locally_calculated"
+          }
+        },
+        "swing_descriptions": [
+          "bunt_foul_tip",
+          "foul",
+          "foul_bunt",
+          "foul_pitchout",
+          "foul_tip",
+          "hit_into_play",
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ],
+        "whiff_descriptions": [
+          "missed_bunt",
+          "swinging_pitchout",
+          "swinging_strike",
+          "swinging_strike_blocked"
+        ]
+      }
+    }
+  }
+]

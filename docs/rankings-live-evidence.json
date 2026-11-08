@@ -1,0 +1,1190 @@
+[
+  {
+    "official_profile": {
+      "player_id": 660271,
+      "season": 2024,
+      "category": "hitting",
+      "mode": "official",
+      "metrics": {
+        "avg_ev": {
+          "percentile": 100.0,
+          "actual": 95.8,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "max_ev": {
+          "percentile": 100.0,
+          "actual": 119.2,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 606,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true"
+        },
+        "hard_hit": {
+          "percentile": 100.0,
+          "actual": 60.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "barrel": {
+          "percentile": 100.0,
+          "actual": 21.5,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xwoba": {
+          "percentile": 99.0,
+          "actual": 0.444,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xba": {
+          "percentile": 99.0,
+          "actual": 0.31,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xslg": {
+          "percentile": 100.0,
+          "actual": 0.672,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "whiff": {
+          "percentile": 19.0,
+          "actual": 29.8,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "chase": {
+          "percentile": 61.0,
+          "actual": 26.6,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "k": {
+          "percentile": 44.0,
+          "actual": 22.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "bb": {
+          "percentile": 85.0,
+          "actual": 11.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 251,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "sprint": {
+          "percentile": 70.0,
+          "actual": 28.1,
+          "unit": "ft/s",
+          "direction": "higher",
+          "population_n": 606,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=batter&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:35:58.484785+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        }
+      },
+      "minimum_pa_or_bf": null,
+      "qualification": "source-published per metric; general core rule 2.1 PA/team game for hitters, 1.25 BF/team game for pitchers; supplementary metrics may differ",
+      "method": "source values unchanged, including favorable direction"
+    },
+    "local_profile": {
+      "player_id": 660271,
+      "season": 2024,
+      "category": "hitting",
+      "mode": "local",
+      "metrics": {
+        "avg_ev": {
+          "percentile": 99.64912280701755,
+          "actual": 95.8,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "max_ev": {
+          "percentile": 99.29824561403508,
+          "actual": 119.2,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2024&position=&team=&min=0&filterType=pa&csv=true"
+        },
+        "hard_hit": {
+          "percentile": 99.64912280701755,
+          "actual": 60.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "barrel": {
+          "percentile": 99.64912280701755,
+          "actual": 21.5,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xwoba": {
+          "percentile": 99.29824561403508,
+          "actual": 0.444,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xba": {
+          "percentile": 99.12280701754386,
+          "actual": 0.31,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xslg": {
+          "percentile": 99.64912280701755,
+          "actual": 0.672,
+          "unit": "rate",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "whiff": {
+          "percentile": 18.245614035087726,
+          "actual": 29.8,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "chase": {
+          "percentile": 61.75438596491228,
+          "actual": 26.6,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "k": {
+          "percentile": 44.03508771929825,
+          "actual": 22.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "bb": {
+          "percentile": 85.96491228070175,
+          "actual": 11.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "sprint": {
+          "percentile": 69.64912280701755,
+          "actual": 28.1,
+          "unit": "ft/s",
+          "direction": "higher",
+          "population_n": 286,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "hitting",
+          "player_id": 660271,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        }
+      },
+      "minimum_pa_or_bf": 300,
+      "qualification": "app minimum 300 PA",
+      "method": "100*(average_rank-1)/(N-1); lower direction inverted; ties averaged; N<2 unavailable; contextual spin not ranked"
+    },
+    "similarity": {
+      "player_id": 660271,
+      "season": 2024,
+      "category": "hitting",
+      "game_type": "R",
+      "minimum_pa_or_bf": 300,
+      "eligible_n": 286,
+      "excluded_n": 365,
+      "features": [
+        "avg_ev",
+        "bb",
+        "k"
+      ],
+      "weights": {
+        "avg_ev": 0.3333333333333333,
+        "bb": 0.3333333333333333,
+        "k": 0.3333333333333333
+      },
+      "method": "population z-score (ddof=0); distance=sqrt(mean((z_candidate-z_target)^2)); score=1/(1+distance), not probability",
+      "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=batter&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+      "retrieved_at": "2026-11-04T23:35:59.753049+00:00",
+      "results": [
+        {
+          "player": {
+            "id": 606466,
+            "fullName": "Ketel Marte"
+          },
+          "teams": [
+            "Arizona Diamondbacks"
+          ],
+          "positions": [
+            "2B"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.6069726024887,
+          "score": 0.6222881450818212,
+          "values": {
+            "avg_ev": 94.0,
+            "bb": 11.1,
+            "k": 18.2
+          },
+          "z": {
+            "avg_ev": 2.2089393505857435,
+            "bb": 1.0753375434540804,
+            "k": -0.6112479820866216
+          },
+          "differences": {
+            "avg_ev": -1.7999999999999972,
+            "bb": 0.0,
+            "k": -4.0
+          }
+        },
+        {
+          "player": {
+            "id": 646240,
+            "fullName": "Rafael Devers"
+          },
+          "teams": [
+            "Boston Red Sox"
+          ],
+          "positions": [
+            "3B"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.7031427654873645,
+          "score": 0.587149838677114,
+          "values": {
+            "avg_ev": 93.2,
+            "bb": 11.1,
+            "k": 24.5
+          },
+          "z": {
+            "avg_ev": 1.8543187195065858,
+            "bb": 1.0753375434540804,
+            "k": 0.46691806208731423
+          },
+          "differences": {
+            "avg_ev": -2.5999999999999943,
+            "bb": 0.0,
+            "k": 2.3000000000000007
+          }
+        },
+        {
+          "player": {
+            "id": 656305,
+            "fullName": "Matt Chapman"
+          },
+          "teams": [
+            "San Francisco Giants"
+          ],
+          "positions": [
+            "3B"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.7448637892460434,
+          "score": 0.5731106382992226,
+          "values": {
+            "avg_ev": 93.2,
+            "bb": 9.9,
+            "k": 24.4
+          },
+          "z": {
+            "avg_ev": 1.8543187195065858,
+            "bb": 0.6344106080736267,
+            "k": 0.4498043153543944
+          },
+          "differences": {
+            "avg_ev": -2.5999999999999943,
+            "bb": -1.1999999999999993,
+            "k": 2.1999999999999993
+          }
+        },
+        {
+          "player": {
+            "id": 683002,
+            "fullName": "Gunnar Henderson"
+          },
+          "teams": [
+            "Baltimore Orioles"
+          ],
+          "positions": [
+            "SS"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.7704727423884331,
+          "score": 0.5648208956049575,
+          "values": {
+            "avg_ev": 92.8,
+            "bb": 10.8,
+            "k": 22.1
+          },
+          "z": {
+            "avg_ev": 1.677008403967004,
+            "bb": 0.9651058096089673,
+            "k": 0.056188140497243744
+          },
+          "differences": {
+            "avg_ev": -3.0,
+            "bb": -0.29999999999999893,
+            "k": -0.09999999999999787
+          }
+        },
+        {
+          "player": {
+            "id": 661388,
+            "fullName": "William Contreras"
+          },
+          "teams": [
+            "Milwaukee Brewers"
+          ],
+          "positions": [
+            "C"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.7905030212148245,
+          "score": 0.5585022690000924,
+          "values": {
+            "avg_ev": 92.8,
+            "bb": 11.5,
+            "k": 20.5
+          },
+          "z": {
+            "avg_ev": 1.677008403967004,
+            "bb": 1.2223131885808984,
+            "k": -0.21763180722947034
+          },
+          "differences": {
+            "avg_ev": -3.0,
+            "bb": 0.40000000000000036,
+            "k": -1.6999999999999993
+          }
+        }
+      ],
+      "status": "available",
+      "means": {
+        "avg_ev": 89.01678321678321,
+        "bb": 8.17342657342657,
+        "k": 21.77167832167832
+      },
+      "std": {
+        "avg_ev": 2.2559319167796037,
+        "bb": 2.7215393384043995,
+        "k": 5.843255808363827
+      },
+      "target_values": {
+        "avg_ev": 95.8,
+        "max_ev": 119.2,
+        "hard_hit": 60.1,
+        "barrel": 21.5,
+        "xwoba": 0.444,
+        "xba": 0.31,
+        "xslg": 0.672,
+        "whiff": 29.8,
+        "chase": 26.6,
+        "k": 22.2,
+        "bb": 11.1,
+        "sprint": 28.1
+      },
+      "target_z": {
+        "avg_ev": 3.00683577051385,
+        "bb": 1.0753375434540804,
+        "k": 0.073301887230163
+      }
+    },
+    "source_errors": []
+  },
+  {
+    "official_profile": {
+      "player_id": 694973,
+      "season": 2024,
+      "category": "pitching",
+      "mode": "official",
+      "metrics": {
+        "fb_velocity": {
+          "percentile": 99.0,
+          "actual": 98.8,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 694,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "fb_spin": {
+          "percentile": 49.0,
+          "actual": 2244.0,
+          "unit": "rpm",
+          "direction": "context",
+          "population_n": 694,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "whiff": {
+          "percentile": 75.0,
+          "actual": 28.7,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "chase": {
+          "percentile": 73.0,
+          "actual": 30.8,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "k": {
+          "percentile": 95.0,
+          "actual": 33.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "bb": {
+          "percentile": 78.0,
+          "actual": 6.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "hard_hit": {
+          "percentile": 70.0,
+          "actual": 36.3,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "barrel": {
+          "percentile": 87.0,
+          "actual": 5.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "avg_ev": {
+          "percentile": 76.0,
+          "actual": 87.8,
+          "unit": "mph",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xera": {
+          "percentile": 97.0,
+          "actual": 2.5,
+          "unit": "ERA",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xba": {
+          "percentile": 94.0,
+          "actual": 0.191,
+          "unit": "rate",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xwoba": {
+          "percentile": 97.0,
+          "actual": 0.25,
+          "unit": "rate",
+          "direction": "lower",
+          "population_n": 366,
+          "status": "published",
+          "classification": "source_published",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/percentile-rankings?type=pitcher&year=2024&position=&team=&csv=true",
+          "retrieved_at": "2026-11-04T23:36:01.617183+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        }
+      },
+      "minimum_pa_or_bf": null,
+      "qualification": "source-published per metric; general core rule 2.1 PA/team game for hitters, 1.25 BF/team game for pitchers; supplementary metrics may differ",
+      "method": "source values unchanged, including favorable direction"
+    },
+    "local_profile": {
+      "player_id": 694973,
+      "season": 2024,
+      "category": "pitching",
+      "mode": "local",
+      "metrics": {
+        "fb_velocity": {
+          "percentile": 98.36512261580381,
+          "actual": 98.8,
+          "unit": "mph",
+          "direction": "higher",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "fb_spin": {
+          "percentile": null,
+          "actual": 2244.0,
+          "unit": "rpm",
+          "direction": "context",
+          "population_n": 368,
+          "status": "unqualified_missing_or_insufficient",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "whiff": {
+          "percentile": 75.61307901907357,
+          "actual": 28.7,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "chase": {
+          "percentile": 74.11444141689373,
+          "actual": 30.8,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "k": {
+          "percentile": 94.95912806539509,
+          "actual": 33.1,
+          "unit": "%",
+          "direction": "higher",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "bb": {
+          "percentile": 78.4741144414169,
+          "actual": 6.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "hard_hit": {
+          "percentile": 70.84468664850137,
+          "actual": 36.3,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "barrel": {
+          "percentile": 87.60217983651226,
+          "actual": 5.2,
+          "unit": "%",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "avg_ev": {
+          "percentile": 77.3841961852861,
+          "actual": 87.8,
+          "unit": "mph",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xera": {
+          "percentile": 97.41144414168937,
+          "actual": 2.5,
+          "unit": "ERA",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xba": {
+          "percentile": 94.141689373297,
+          "actual": 0.191,
+          "unit": "rate",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        },
+        "xwoba": {
+          "percentile": 97.41144414168937,
+          "actual": 0.25,
+          "unit": "rate",
+          "direction": "lower",
+          "population_n": 368,
+          "status": "available",
+          "classification": "locally_calculated",
+          "season": 2024,
+          "category": "pitching",
+          "player_id": 694973,
+          "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+          "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+          "actual_source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed"
+        }
+      },
+      "minimum_pa_or_bf": 200,
+      "qualification": "app minimum 200 BF",
+      "method": "100*(average_rank-1)/(N-1); lower direction inverted; ties averaged; N<2 unavailable; contextual spin not ranked"
+    },
+    "similarity": {
+      "player_id": 694973,
+      "season": 2024,
+      "category": "pitching",
+      "game_type": "R",
+      "minimum_pa_or_bf": 200,
+      "eligible_n": 368,
+      "excluded_n": 438,
+      "features": [
+        "avg_ev",
+        "bb",
+        "k"
+      ],
+      "weights": {
+        "avg_ev": 0.3333333333333333,
+        "bb": 0.3333333333333333,
+        "k": 0.3333333333333333
+      },
+      "method": "population z-score (ddof=0); distance=sqrt(mean((z_candidate-z_target)^2)); score=1/(1+distance), not probability",
+      "source": "https://baseballsavant.mlb.com/leaderboard/custom?type=pitcher&year=2024&position=&team=&csv=true&min=0&selections=pa%2Ck_percent%2Cbb_percent%2Cwhiff_percent%2Coz_swing_percent%2Cexit_velocity_avg%2Chard_hit_percent%2Cbarrel_batted_rate%2Cxba%2Cxslg%2Cxwoba%2Cxera%2Cfastball_avg_speed%2Cfastball_avg_spin%2Csprint_speed",
+      "retrieved_at": "2026-11-04T23:36:03.151134+00:00",
+      "results": [
+        {
+          "player": {
+            "id": 656546,
+            "fullName": "Jeff Hoffman"
+          },
+          "teams": [
+            "Philadelphia Phillies"
+          ],
+          "positions": [
+            "P"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.2174442525830751,
+          "score": 0.8213928464307755,
+          "values": {
+            "avg_ev": 88.3,
+            "bb": 6.0,
+            "k": 33.6
+          },
+          "z": {
+            "avg_ev": -0.33454899499846197,
+            "bb": -0.8954403776546583,
+            "k": 2.0215444878432263
+          },
+          "differences": {
+            "avg_ev": 0.5,
+            "bb": -0.20000000000000018,
+            "k": 0.5
+          }
+        },
+        {
+          "player": {
+            "id": 643377,
+            "fullName": "Griffin Jax"
+          },
+          "teams": [
+            "Minnesota Twins"
+          ],
+          "positions": [
+            "P"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.28917498468495545,
+          "score": 0.775689888401284,
+          "values": {
+            "avg_ev": 88.2,
+            "bb": 5.4,
+            "k": 34.4
+          },
+          "z": {
+            "avg_ev": -0.4054263871455158,
+            "bb": -1.1383910232508108,
+            "k": 2.179106358334872
+          },
+          "differences": {
+            "avg_ev": 0.4000000000000057,
+            "bb": -0.7999999999999998,
+            "k": 1.2999999999999972
+          }
+        },
+        {
+          "player": {
+            "id": 669276,
+            "fullName": "Dylan Lee"
+          },
+          "teams": [
+            "Atlanta Braves"
+          ],
+          "positions": [
+            "P"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.29100261564472335,
+          "score": 0.7745917691271311,
+          "values": {
+            "avg_ev": 87.5,
+            "bb": 7.1,
+            "k": 31.7
+          },
+          "z": {
+            "avg_ev": -0.9015681321749233,
+            "bb": -0.45003086072837867,
+            "k": 1.6473350454255662
+          },
+          "differences": {
+            "avg_ev": -0.29999999999999716,
+            "bb": 0.8999999999999995,
+            "k": -1.4000000000000021
+          }
+        },
+        {
+          "player": {
+            "id": 669211,
+            "fullName": "Keegan Akin"
+          },
+          "teams": [
+            "Baltimore Orioles"
+          ],
+          "positions": [
+            "P"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.3153276535647617,
+          "score": 0.760266840957711,
+          "values": {
+            "avg_ev": 88.3,
+            "bb": 6.1,
+            "k": 31.0
+          },
+          "z": {
+            "avg_ev": -0.33454899499846197,
+            "bb": -0.854948603388633,
+            "k": 1.509468408745376
+          },
+          "differences": {
+            "avg_ev": 0.5,
+            "bb": -0.10000000000000053,
+            "k": -2.1000000000000014
+          }
+        },
+        {
+          "player": {
+            "id": 676979,
+            "fullName": "Garrett Crochet"
+          },
+          "teams": [
+            "Chicago White Sox"
+          ],
+          "positions": [
+            "P"
+          ],
+          "multiple_teams": false,
+          "season": 2024,
+          "distance": 0.3469344881826574,
+          "score": 0.7424266055799369,
+          "values": {
+            "avg_ev": 88.3,
+            "bb": 5.5,
+            "k": 35.1
+          },
+          "z": {
+            "avg_ev": -0.33454899499846197,
+            "bb": -1.0978992489847854,
+            "k": 2.316972995015063
+          },
+          "differences": {
+            "avg_ev": 0.5,
+            "bb": -0.7000000000000002,
+            "k": 2.0
+          }
+        }
+      ],
+      "status": "available",
+      "means": {
+        "avg_ev": 88.7720108695652,
+        "bb": 8.211413043478256,
+        "k": 23.335869565217394
+      },
+      "std": {
+        "avg_ev": 1.4108871245222718,
+        "bb": 2.4696373970430052,
+        "k": 5.0773705434172
+      },
+      "target_values": {
+        "fb_velocity": 98.8,
+        "fb_spin": 2244.0,
+        "whiff": 28.7,
+        "chase": 30.8,
+        "k": 33.1,
+        "bb": 6.2,
+        "hard_hit": 36.3,
+        "barrel": 5.2,
+        "avg_ev": 87.8,
+        "xera": 2.5,
+        "xba": 0.191,
+        "xwoba": 0.25
+      },
+      "target_z": {
+        "avg_ev": -0.6889359557337515,
+        "bb": -0.8144568291226074,
+        "k": 1.9230683187859474
+      }
+    },
+    "source_errors": []
+  }
+]

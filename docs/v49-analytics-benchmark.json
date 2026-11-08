@@ -1,0 +1,18 @@
+{
+  "percentiles": {
+    "median_seconds": 9.055999980773776e-05,
+    "calls": 100
+  },
+  "similarity": {
+    "median_seconds": 7.550000154878944e-05,
+    "calls": 100
+  },
+  "career_aggregate": {
+    "median_seconds": 0.00037016999849583956,
+    "calls": 100
+  },
+  "leaderboard_filter": {
+    "median_seconds": 0.0009108550002565607,
+    "calls": 100
+  }
+}

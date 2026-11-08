@@ -1,0 +1,40 @@
+{
+  "modified": [
+    ".gitignore",
+    "README.md",
+    "components/ai_ui.py",
+    "components/dashboard.py",
+    "components/system_performance_ui.py",
+    "components/ui_components.py",
+    "requirements-dev.txt",
+    "services/ai_analyst.py",
+    "services/cache_manager.py",
+    "services/cache_policy.py",
+    "services/database.py",
+    "utils/favorites.py",
+    "utils/i18n.py",
+    "utils/leaderboard_presets.py"
+  ],
+  "created": [
+    ".env.example",
+    ".github/workflows/tests.yml",
+    "CHANGELOG.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DATA_QUALITY.md",
+    "docs/DEPLOYMENT.md",
+    "docs/IMPLEMENTATION_PLAN.md",
+    "docs/RELEASE_READINESS.md",
+    "docs/SECURITY.md",
+    "docs/TESTING.md",
+    "docs/V49_REPORT.ko.md",
+    "docs/v49-analytics-benchmark.json",
+    "docs/v49-benchmark.json",
+    "docs/v49-file-changes.json",
+    "pytest.ini",
+    "scripts/benchmark_analytics.py",
+    "tests/conftest.py",
+    "tests/test_deployment_security.py",
+    "tests/test_statistics_validation.py",
+    "utils/config.py"
+  ]
+}
